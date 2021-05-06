@@ -1,4 +1,36 @@
-body {background-color:tan;}
-h1{color:green;}
+/* Updated by Rafael Barbosa Vendramini Costa - Brazil 2021/05/05 */
 
+body {
+    background-color:black;
+    font-family:arial;
+    color:white
+}
 
+.maindiv {
+    background-color:white;
+    color:black;
+    width:520px;
+    border-radius:25px
+}
+
+.spc {
+    padding: 0 110px 0 110px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.leftt {
+    padding-left: 110px;
+}
+
+h1 {
+    padding: 28px 20px 0 20px;
+    color:grey;
+    font-family:verdana;
+}
+
+.footerd {
+    padding: 0 20px 20px 20px;
+    align:center;
+    font-size: 18px;
+}
