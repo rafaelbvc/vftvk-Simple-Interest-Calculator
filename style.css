@@ -1,6 +1,8 @@
 /* Updated by Rafael Barbosa Vendramini Costa - Brazil 2021/05/05 */
 
 body {
+    display:flex;
+    justify-content:center;
     background-color:black;
     font-family:arial;
     color:white
